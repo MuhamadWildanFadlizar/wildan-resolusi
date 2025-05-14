@@ -6,6 +6,7 @@ project sederhana
 *framework javascript
 -angular
 -react
+-view
 struktur dasar
 project lainnya
 -python
