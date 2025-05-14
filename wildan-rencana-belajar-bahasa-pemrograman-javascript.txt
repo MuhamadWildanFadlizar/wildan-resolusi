@@ -4,7 +4,7 @@ rencana belajar bahasa pemrograman java script
 project sederhana
 *ES6
 *framework javascript
--view
+-angular
 -react
 struktur dasar
 project lainnya
