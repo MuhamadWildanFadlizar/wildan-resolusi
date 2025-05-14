@@ -5,6 +5,7 @@ project sederhana
 *ES6
 *framework javascript
 -view
+-react
 struktur dasar
 project lainnya
 -python
