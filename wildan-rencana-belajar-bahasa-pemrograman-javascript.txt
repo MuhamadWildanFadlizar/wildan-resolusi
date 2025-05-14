@@ -8,3 +8,4 @@ project sederhana
 -react
 struktur dasar
 project lainnya
+-python
